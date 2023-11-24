@@ -9,3 +9,4 @@ Thonyk
 
 magorikh
 birdie est passé par là
+Merci la clef ssh !!
