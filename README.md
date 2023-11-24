@@ -2,6 +2,7 @@
 
 A basic repository created for training purpose.
 
+Micka
 Birdie est passé par là
 Julien
 Thonyk
